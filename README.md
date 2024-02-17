@@ -1,4 +1,4 @@
-# [CT Pack Launcher Template]
+# CT Pack Launcher Template
 This is template code so people can create there own Custom Track Pack Launcher!
 
 ## Features
