@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>CT Pack Launcher Template</name>
+	<coder>Cats4Life Aaron tueidj Tempus megazig</coder>
+	<version>v1.0template</version>
+	<release_date>20990101120000</release_date>
+	<short_description>CT Pack Launcher Template</short_description>
+	<long_description>This is a template to launch Mario Kart Wii CT Packs through a launcher.</long_description>
+	<ahb_access/>
+</app>
