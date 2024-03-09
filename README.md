@@ -29,4 +29,4 @@ This is template code so people can create there own Custom Track Pack Launcher!
 
 ## Building
 
-With the required dependencies installed, just run `make launcher` in the project's directory:
+With the required dependencies installed, just run `make launcher` in the project's directory. Also make sure to use launcher.dol instead of the other files when it is finished.
